@@ -1,15 +1,78 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Storm vijesti</title>
-    <link>https://tvoj-username.github.io/rss-feed/</link>
-    <description>Obavijesti i promocije</description>
+    <title>Storm Computers d.o.o. - Vijesti</title>
+    <link>https://storm.hr</link>
+    <description>Novosti, rješenja i događanja</description>
 
     <item>
-      <title>Dobrodošli</title>
-      <description>Hvala na posjeti! Pogledajte naše ponude.</description>
-      <pubDate>Tue, 28 Apr 2026 10:00:00 GMT</pubDate>
-      <guid>1</guid>
+      <title>Storm x Samsung Experience događaj</title>
+      <description>U našem showroomu predstavljamo pametna rješenja: kiosci, digital signage i 3D display tehnologija. Posjetite nas i isprobajte uživo.</description>
+      <pubDate>Mon, 27 Apr 2026 09:00:00 GMT</pubDate>
+      <guid>storm-1</guid>
+    </item>
+
+    <item>
+      <title>Digital signage rješenja za retail</title>
+      <description>Implementiramo napredne Samsung display sustave za dinamičko oglašavanje i upravljanje sadržajem u realnom vremenu.</description>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
+      <guid>storm-2</guid>
+    </item>
+
+    <item>
+      <title>Nova generacija self-service kioska</title>
+      <description>Razvijamo kioske s podrškom za kartično i gotovinsko plaćanje, idealno za javne ustanove i turizam.</description>
+      <pubDate>Mon, 27 Apr 2026 11:00:00 GMT</pubDate>
+      <guid>storm-3</guid>
+    </item>
+
+    <item>
+      <title>Integracija POS sustava i naplatnih rješenja</title>
+      <description>Storm nudi integraciju s vodećim POS sustavima i payment rješenjima za potpuno automatizirane procese.</description>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>storm-4</guid>
+    </item>
+
+    <item>
+      <title>AI u digitalnom oglašavanju</title>
+      <description>Testiramo rješenja za prikaz personaliziranog sadržaja prema demografiji korisnika putem kamera i AI analize.</description>
+      <pubDate>Mon, 27 Apr 2026 13:00:00 GMT</pubDate>
+      <guid>storm-5</guid>
+    </item>
+
+    <item>
+      <title>Outdoor digital totemi u ponudi</title>
+      <description>OtpornI na vremenske uvjete, idealni za javne površine i turističke lokacije.</description>
+      <pubDate>Mon, 27 Apr 2026 14:00:00 GMT</pubDate>
+      <guid>storm-6</guid>
+    </item>
+
+    <item>
+      <title>Upravljanje sadržajem putem cloud platforme</title>
+      <description>Samsung VXT i MagicINFO omogućuju jednostavno upravljanje ekranima s bilo koje lokacije.</description>
+      <pubDate>Mon, 27 Apr 2026 15:00:00 GMT</pubDate>
+      <guid>storm-7</guid>
+    </item>
+
+    <item>
+      <title>Rješenja za pametne gradove</title>
+      <description>Storm sudjeluje u projektima digitalizacije javnih usluga kroz kioske, displaye i integracijske platforme.</description>
+      <pubDate>Mon, 27 Apr 2026 16:00:00 GMT</pubDate>
+      <guid>storm-8</guid>
+    </item>
+
+    <item>
+      <title>Servis i podrška</title>
+      <description>Osiguravamo kompletnu podršku: od implementacije do održavanja sustava.</description>
+      <pubDate>Mon, 27 Apr 2026 17:00:00 GMT</pubDate>
+      <guid>storm-9</guid>
+    </item>
+
+    <item>
+      <title>Kontaktirajte nas</title>
+      <description>Za više informacija posjetite www.storm.hr ili nas kontaktirajte direktno.</description>
+      <pubDate>Mon, 27 Apr 2026 18:00:00 GMT</pubDate>
+      <guid>storm-10</guid>
     </item>
 
   </channel>

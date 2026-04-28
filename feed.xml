@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Storm vijesti</title>
+    <link>https://tvoj-username.github.io/rss-feed/</link>
+    <description>Obavijesti i promocije</description>
+
+    <item>
+      <title>Dobrodošli</title>
+      <description>Hvala na posjeti! Pogledajte naše ponude.</description>
+      <pubDate>Tue, 28 Apr 2026 10:00:00 GMT</pubDate>
+      <guid>1</guid>
+    </item>
+
+  </channel>
+</rss>
